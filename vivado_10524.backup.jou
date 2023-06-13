@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2016.4 (64-bit)
+# SW Build 1756540 on Mon Jan 23 19:11:23 MST 2017
+# IP Build 1755317 on Mon Jan 23 20:30:07 MST 2017
+# Start of session at: Wed May 18 16:37:11 2022
+# Process ID: 10524
+# Current directory: C:/Users/MSI/Documents/Semestrul 2 anul 2/AC/MIPS CICLU UNIC Oniga/MIPS CICLU UNIC FINAL_V2
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent17900 C:\Users\MSI\Documents\Semestrul 2 anul 2\AC\MIPS CICLU UNIC Oniga\MIPS CICLU UNIC FINAL_V2\MIPS CICLU UNIC FINAL_V2.xpr
+# Log file: C:/Users/MSI/Documents/Semestrul 2 anul 2/AC/MIPS CICLU UNIC Oniga/MIPS CICLU UNIC FINAL_V2/vivado.log
+# Journal file: C:/Users/MSI/Documents/Semestrul 2 anul 2/AC/MIPS CICLU UNIC Oniga/MIPS CICLU UNIC FINAL_V2\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/MSI/Documents/Semestrul 2 anul 2/AC/MIPS CICLU UNIC Oniga/MIPS CICLU UNIC FINAL_V2/MIPS CICLU UNIC FINAL_V2.xpr}
